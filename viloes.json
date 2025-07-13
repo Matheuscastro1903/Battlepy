@@ -1,0 +1,38 @@
+{
+    "vida": {
+        "Coringa": 200,
+        "Genon": 300,
+        "Pain": 200,
+        "Duende Verde": 300,
+        "Doutor Octopus": 310,
+        "Destruidor": 200,
+        "Bowser": 210
+    },
+    "dano": {
+        "Coringa": 50,
+        "Genon": 30,
+        "Pain": 50,
+        "Duende Verde": 250,
+        "Doutor Octopus": 190,
+        "Destruidor": 260,
+        "Bowser": 360
+    },
+    "maldade": {
+        "Coringa": "alta",
+        "Genon": "alta",
+        "Pain": "baixa",
+        "Duende Verde": "alta",
+        "Doutor Octopus": "média",
+        "Destruidor": "alta",
+        "Bowser": "média"
+    },
+    "arma": {
+        "Coringa": "Barra de Ferro",
+        "Genon": "Arco Sombrio",
+        "Pain": "Lâmina Celestial",
+        "Duende Verde": "Duende Arco",
+        "Doutor Octopus": "Garras",
+        "Destruidor": "Adaga sombria",
+        "Bowser": "Machadão"
+    }
+}

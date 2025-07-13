@@ -1,0 +1,38 @@
+{
+    "vida": {
+        "Batman": 100,
+        "Zelda": 150,
+        "Naruto": 100,
+        "Homem-Aranha": 300,
+        "Wolwerine": 400,
+        "SuperMan": 400,
+        "Mário": 400
+    },
+    "dano": {
+        "Batman": 50,
+        "Zelda": 30,
+        "Naruto": 50,
+        "Homem-Aranha": 180,
+        "Wolwerine": 150,
+        "SuperMan": 150,
+        "Mário": 150
+    },
+    "especial": {
+        "Batman": 100,
+        "Zelda": 60,
+        "Naruto": 100,
+        "Homem-Aranha": 360,
+        "Wolwerine": 300,
+        "SuperMan": 300,
+        "Mário": 300
+    },
+    "arma": {
+        "Batman": "BatEspada",
+        "Zelda": "Arco da Luz",
+        "Naruto": "Kunai",
+        "Homem-Aranha": "EspadaAranha",
+        "Wolwerine": "Garras",
+        "SuperMan": "SuperEspada",
+        "Mário": "Cano"
+    }
+}
